@@ -1,0 +1,9 @@
+Message!
+
+A robot never panics.
+It just says: “Error 404: Calm not found.”
+
+Joke!
+
+Why did the robot go on a diet?
+--> Because it had too many bytes
